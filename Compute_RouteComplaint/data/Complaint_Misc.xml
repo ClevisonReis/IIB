@@ -1,0 +1,19 @@
+<CUSTOMERCOMPLAINT>
+	<VERSION>2</VERSION>
+	<CUSTOMER_NAME>
+		<N_FIRST>Sue</N_FIRST>
+		<N_LAST>Burns</N_LAST>
+	</CUSTOMER_NAME>
+	<CUSTOMER_ADDRESS>
+		<A_LINE>10 Main St</A_LINE>
+		<A_LINE>Office Park</A_LINE>
+		<TOWN>Anytown</TOWN>
+		<ZIP>33442</ZIP>
+		<COUNTRY>USA</COUNTRY>
+	</CUSTOMER_ADDRESS>
+	<COMPLAINT>
+		<C_TYPE>Misc</C_TYPE>
+		<C_REF>XYZ123ABC</C_REF>
+		<C_TEXT>I think your TV advertisements discriminate against small dogs.</C_TEXT>
+	</COMPLAINT>
+</CUSTOMERCOMPLAINT>
